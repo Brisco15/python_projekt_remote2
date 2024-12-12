@@ -8,3 +8,4 @@ def printTab(text, n=0):
 
 printTab('Hallo')
 printTab('Hallo', 3)
+printTab('wow bombomclag', 5)
